@@ -1,3 +1,8 @@
+![Cover](./cover.png)
+
+This is Day `4` of `100` in Solidity Series
+Today I Learned About Variables and Scopes in Solidity.
+
 # Variables
 
 Solidity supports three types of variables.
@@ -108,3 +113,5 @@ contract D is C {
    }
 }
 ```
+
+---
