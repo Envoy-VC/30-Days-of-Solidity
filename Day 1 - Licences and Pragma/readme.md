@@ -1,3 +1,5 @@
+![Cover](./cover.png)
+
 This is Day `1` of `100` in Solidity Series.
 
 Today I Learned About Licences and Pragma Keyword in Solidity

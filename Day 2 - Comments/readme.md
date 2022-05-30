@@ -1,3 +1,8 @@
+![Cover](./cover.png)
+
+This is Day `2` of `100` in Solidity Series
+Today I Learned About Comments and NatSpec Format in Solidity.
+
 Solidity supports both C-style and C++-style comments, Thus −
 
 - Any text between a // and the end of a line is treated as a comment and is ignored by Solidity Compiler.
