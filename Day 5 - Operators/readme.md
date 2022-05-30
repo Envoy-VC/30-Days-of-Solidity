@@ -1,3 +1,8 @@
+![Cover](./cover.png)
+
+This is Day `5` of `100` in Solidity Series
+Today I Learned About Operators in Solidity.
+
 # Operators
 
 Solidity supports the following types of operators.
