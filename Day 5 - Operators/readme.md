@@ -1,7 +1,26 @@
-![Cover](./cover.png)
+<div align="center">
+  <h1> 100 Days Of Solidity: Operators</h1>
+  <a class="header-badge" target="_blank" href="https://dev.to/envoy_">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Envoy_1084">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Envoy_1084?style=social">
+  </a>
 
-This is Day `5` of `100` in Solidity Series
-Today I Learned About Operators in Solidity.
+<sub>Author:
+<a href="https://dev.to/envoy_" target="_blank">Vedant Chainani</a><br>
+<small> June, 2022</small>
+</sub>
+</div>
+
+[<< Day 4](../Day%204%20-%20Variables%20and%20Scopes/readme.md) | [Day 6 >>](../Day%206%20-%20Types/readme.md)
+
+![Day X](./cover.png)
+
+---
+
+# 📔 Day 5
+
 
 # Operators
 
