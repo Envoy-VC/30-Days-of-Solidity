@@ -115,3 +115,4 @@ The conditional operator first evaluates an expression for a true or false value
 | ? : (Conditional ) | If Condition is true? Then value X : Otherwise value Y |
 
 ---
+[<< Day 4](../Day%204%20-%20Variables%20and%20Scopes/readme.md) | [Day 6 >>](../Day%206%20-%20Types/readme.md)
