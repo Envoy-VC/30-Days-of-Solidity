@@ -15,7 +15,7 @@
 
 [Day 2 >>](../Day%202%20-%20Comments/readme.md)
 
-![Day 1](./cover.png)
+![Day X](./cover.png)
 
 ---
 
