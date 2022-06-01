@@ -1,7 +1,26 @@
-![Cover](./cover.png)
+<div align="center">
+  <h1> 100 Days Of Solidity: Data Types</h1>
+  <a class="header-badge" target="_blank" href="https://dev.to/envoy_">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Envoy_1084">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Envoy_1084?style=social">
+  </a>
 
-This is Day `6` of `100` in Solidity Series
-Today I Learned About Types in Solidity.
+<sub>Author:
+<a href="https://dev.to/envoy_" target="_blank">Vedant Chainani</a><br>
+<small> June, 2022</small>
+</sub>
+</div>
+
+[<< Day 5](../Day%205%20-%20Operators/readme.md) | [Day 7 >>](../Day%207%20-%20Functions/readme.md)
+
+![Day 6](./cover.png)
+
+---
+
+# 📔 Day 6
+
 
 ## Data Types
 
@@ -46,3 +65,6 @@ contract MyTypes {
     address payable walletAddress = payable(0xBF4979305B43B0eB5Bb6a5C67ffB89408803d3e1);
 }
 ```
+
+---
+[<< Day 5](../Day%205%20-%20Operators/readme.md) | [Day 7 >>](../Day%207%20-%20Functions/readme.md)
