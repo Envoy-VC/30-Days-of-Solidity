@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 100 Days Of Solidity: Licences and Pragma</h1>
+  <h1> 100 Days Of Solidity: Comments and NatSpec</h1>
   <a class="header-badge" target="_blank" href="https://dev.to/envoy_">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
