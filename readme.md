@@ -13,6 +13,7 @@
 - [Day 5 - Operators](./Day%205%20-%20Operators/readme.md)
 - [Day 6 - Types](./Day%206%20-%20Types/readme.md)
 - [Day 7 - Functions](./Day%207%20-%20Functions/readme.md)
+- [Day 8 - Loops](./Day%208%20-%20Loops/readme.md)
 
 <br>
 
