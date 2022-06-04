@@ -91,7 +91,7 @@ contract MyContract {
     }
 }
 ```
-Here the value of num at end of execution of while loop is `64`
+Here the value of num at end of execution of do-while loop is `64`
 
 ---
 
@@ -103,7 +103,7 @@ The for loop is the most compact form of looping. It includes the following thre
 - The test statement which will test if a given condition is true or not. If the condition is true, then the code given inside the loop will be executed, otherwise the control will come out of the loop.
 - The iteration statement where you can increase or decrease your counter.
 
-![While Loop](../assets/for-loop.jpg)
+![For Loop](../assets/for-loop.jpg)
 
 ### **Syntax** -
 
@@ -131,7 +131,7 @@ contract MyContract {
 }
 ```
 
-Here the value of num at end of execution of while loop is `64`
+Here the value of num at end of execution of for loop is `64`
 
 ---
 
@@ -163,7 +163,7 @@ contract MyContract {
 }
 ```
 
-Here the value of num at end of execution of while loop is `16`
+Here the value of num at end of execution of for loop is `16`
 
 ---
 
