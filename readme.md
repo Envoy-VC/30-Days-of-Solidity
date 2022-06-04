@@ -12,6 +12,7 @@
 - [Day 4 - Variables and Scopes](./Day%204%20-%20Variables%20and%20Scopes/readme.md)
 - [Day 5 - Operators](./Day%205%20-%20Operators/readme.md)
 - [Day 6 - Types](./Day%206%20-%20Types/readme.md)
+- [Day 7 - Functions](./Day%207%20-%20Functions/readme.md)
 
 <br>
 
