@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 6](../Day%206%20-%20Types/readme.md) | [Day 8 >>](../Day%207%20-%20Loops/readme.md)
+[<< Day 6](../Day%206%20-%20Types/readme.md) | [Day 8 >>](../Day%208%20-%20Loops/readme.md)
 
 ![Day 7](./cover.png)
 
@@ -57,4 +57,4 @@ contract MyContract {
 
 ---
 
-[<< Day 6](../Day%206%20-%20Types/readme.md) | [Day 8 >>](../Day%207%20-%20Loops/readme.md)
+[<< Day 6](../Day%206%20-%20Types/readme.md) | [Day 8 >>](../Day%208%20-%20Loops/readme.md)
