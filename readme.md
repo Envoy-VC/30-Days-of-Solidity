@@ -37,16 +37,16 @@
 
 [Day 2 >>](./Day%202%20-%20Comments/readme.md)
 
-![Day 1](./Day%201%20-%20Licences%20and%20Pragma/cover.png)
+![Day 1](./Day%201%20-%20Licenses%20and%20Pragma/cover.png)
 
 <br>
 
 # 📔 Day 1
 
-## Licences
+## Licenses
 
 ```solidity
-// SPDX-Licence-Identifier: Licence Name
+// SPDX-License-Identifier: License Name
 ```
 
 SPDX license identifiers should be added to the top of contract files.
@@ -59,7 +59,7 @@ The license should be from one of the following: [https://spdx.org/licenses/](h
 eg -
 
 ```solidity
-// SPDX-Licence-Identifier: MIT
+// SPDX-License-Identifier: MIT
 ```
 
 ---
