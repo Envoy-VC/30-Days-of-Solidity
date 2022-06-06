@@ -15,6 +15,8 @@
 - [Day 7 - Functions](./Day%207%20-%20Functions/readme.md)
 - [Day 8 - Loops](./Day%208%20-%20Loops/readme.md)
 - [Day 9 - Decision Making](./Day%209%20-%20Decision%20Making/readme.md)
+- [Day 10 - Arrays](./Day%2010%20-%20Arrays/readme.md)
+- [Day 11 - Array Operations](./Day%2011%20-%20Array%20Operations/readme.md)
 
 <br>
 
