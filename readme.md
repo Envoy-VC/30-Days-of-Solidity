@@ -14,6 +14,7 @@
 - [Day 6 - Types](./Day%206%20-%20Types/readme.md)
 - [Day 7 - Functions](./Day%207%20-%20Functions/readme.md)
 - [Day 8 - Loops](./Day%208%20-%20Loops/readme.md)
+- [Day 9 - Decision Making](./Day%209%20-%20Decision%20Making/readme.md)
 
 <br>
 
