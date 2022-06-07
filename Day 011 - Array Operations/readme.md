@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 10](../Day%20010%20-Arrays/readme.md) | [Day 12 >>]()
+[<< Day 10](../Day%20010%20-%20Arrays/readme.md) | [Day 12 >>]()
 
 ![Day 11](./cover.png)
 
@@ -144,4 +144,4 @@ Output -
 ```
 
 ---
-[<< Day 10](../Day%20010%20-Arrays/readme.md) | [Day 12 >>]()
+[<< Day 10](../Day%20010%20-%20Arrays/readme.md) | [Day 12 >>]()
