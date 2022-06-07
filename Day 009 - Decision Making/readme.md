@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 8](../Day%20008%20-%20Loops/readme.md) | [Day 10 >>](../Day%20010%20-Arrays/readme.md)
+[<< Day 8](../Day%20008%20-%20Loops/readme.md) | [Day 10 >>](../Day%20010%20-%20Arrays/readme.md)   
 
 ![Day 9](./cover.png)
 
@@ -149,4 +149,4 @@ Output -
 
 ---
 
-[<< Day 8](../Day%20008%20-%20Loops/readme.md) | [Day 10 >>](../Day%20010%20-Arrays/readme.md)
+[<< Day 8](../Day%20008%20-%20Loops/readme.md) | [Day 10 >>](../Day%20010%20-%20Arrays/readme.md)
