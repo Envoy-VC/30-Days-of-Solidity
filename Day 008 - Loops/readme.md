@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 7](../Day%207%20-%20Functions/readme.md) | [Day 9 >>]()
+[<< Day 7](../Day%20007%20-%20Functions/readme.md) | [Day 9 >>](../Day%20009%20-%20Decision%20Making/readme.md)
 
 ![Day 8](./cover.png)
 
@@ -167,4 +167,4 @@ Here the value of num at end of execution of for loop is `16`
 
 ---
 
-[<< Day 7](../Day%207%20-%20Functions/readme.md) | [Day 9 >>]()
+[<< Day 7](../Day%20007%20-%20Functions/readme.md) | [Day 9 >>](../Day%20009%20-%20Decision%20Making/readme.md)

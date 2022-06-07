@@ -6,17 +6,17 @@
 
 ## Contents
 
-- [Day 1 - Licences and Pragma](./Day%201%20-%20Licences%20and%20Pragma/readme.md)
-- [Day 2 - Comments](./Day%202%20-%20Comments/readme.md)
-- [Day 3 - Initializing Basic Contract and Types](./Day%203%20-%20Initializing%20Basic%20Contract%20and%20Types/readme.md)
-- [Day 4 - Variables and Scopes](./Day%204%20-%20Variables%20and%20Scopes/readme.md)
-- [Day 5 - Operators](./Day%205%20-%20Operators/readme.md)
-- [Day 6 - Types](./Day%206%20-%20Types/readme.md)
-- [Day 7 - Functions](./Day%207%20-%20Functions/readme.md)
-- [Day 8 - Loops](./Day%208%20-%20Loops/readme.md)
-- [Day 9 - Decision Making](./Day%209%20-%20Decision%20Making/readme.md)
-- [Day 10 - Arrays](./Day%2010%20-%20Arrays/readme.md)
-- [Day 11 - Array Operations](./Day%2011%20-%20Array%20Operations/readme.md)
+- [Day 1 - Licenses and Pragma](./Day%20001%20-%20Licenses%20and%20Pragma/readme.md)
+- [Day 2 - Comments](./Day%20002%20-%20Comments/readme.md)
+- [Day 3 - Initializing Basic Contract and Types](./Day%20003%20-%20Initializing%20Basic%20Contract%20and%20Types/readme.md)
+- [Day 4 - Variables and Scopes](./Day%20004%20-%20Variables%20and%20Scopes/readme.md)
+- [Day 5 - Operators](./Day%20005%20-%20Operators/readme.md)
+- [Day 6 - Types](./Day%20006%20-%20Types/readme.md)
+- [Day 7 - Functions](./Day%20007%20-%20Functions/readme.md)
+- [Day 8 - Loops](./Day%20008%20-%20Loops/readme.md)
+- [Day 9 - Decision Making](./Day%20009%20-%20Decision%20Making/readme.md)
+- [Day 10 - Arrays](./Day%20010%20-%20Arrays/readme.md)
+- [Day 11 - Array Operations](./Day%20011%20-%20Array%20Operations/readme.md)
 
 <br>
 
@@ -37,9 +37,9 @@
 </sub>
 </div>
 
-[Day 2 >>](./Day%202%20-%20Comments/readme.md)
+[Day 2 >>](./Day%20002%20-%20Comments/readme.md)
 
-![Day 1](./Day%201%20-%20Licenses%20and%20Pragma/cover.png)
+![Day 1](./Day%20001%20-%20Licenses%20and%20Pragma/cover.png)
 
 <br>
 
@@ -86,4 +86,4 @@ pragma solidity 0.8.7;
 ---
 
 
-[Day 2 >>](./Day%202%20-%20Comments/readme.md)
+[Day 2 >>](./Day%20002%20-%20Comments/readme.md)

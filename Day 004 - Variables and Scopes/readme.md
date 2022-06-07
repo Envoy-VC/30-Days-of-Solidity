@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 3](../Day%203%20-%20Initialising%20Basic%20Contract/readme.md) | [Day 5 >>](../Day%205%20-%20Operators/readme.md)
+[<< Day 3](../Day%20003%20-%20Initializing%20Basic%20Contract/readme.md) | [Day 5 >>](../Day%20005%20-%20Operators/readme.md)
 
 ![Day X](./cover.png)
 
@@ -134,4 +134,5 @@ contract D is C {
 ```
 
 ---
-[<< Day 3](../Day%203%20-%20Initialising%20Basic%20Contract/readme.md) | [Day 5 >>](../Day%205%20-%20Operators/readme.md)
+
+[<< Day 3](../Day%20003%20-%20Initializing%20Basic%20Contract/readme.md) | [Day 5 >>](../Day%20005%20-%20Operators/readme.md)

@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 1](./../Day%201%20-%20Licences%20and%20Pragma/readme.md) | [Day 3 >>](./../Day%203%20-%20Initialising%20Basic%20Contract/readme.md)
+[<< Day 1](./../Day%20001%20-%20Licenses%20and%20Pragma/readme.md) | [Day 3 >>](./../Day%20003%20-%20Initializing%20Basic%20Contract/readme.md)
 
 ![Day X](./cover.png)
 
@@ -64,4 +64,4 @@ More on NatSpec - [here](https://docs.soliditylang.org/en/latest/natspec-format.
 
 ---
 
-[<< Day 1](./../Day%201%20-%20Licences%20and%20Pragma/readme.md) | [Day 3 >>](./../Day%203%20-%20Initialising%20Basic%20Contract/readme.md)
+[<< Day 1](./../Day%20001%20-%20Licenses%20and%20Pragma/readme.md) | [Day 3 >>](./../Day%20003%20-%20Initializing%20Basic%20Contract/readme.md)

@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 5](../Day%205%20-%20Operators/readme.md) | [Day 7 >>](../Day%207%20-%20Functions/readme.md)
+[<< Day 5](../Day%20005%20-%20Operators/readme.md) | [Day 7 >>](../Day%20007%20-%20Functions/readme.md)
 
 ![Day 6](./cover.png)
 
@@ -67,4 +67,5 @@ contract MyTypes {
 ```
 
 ---
-[<< Day 5](../Day%205%20-%20Operators/readme.md) | [Day 7 >>](../Day%207%20-%20Functions/readme.md)
+
+[<< Day 5](../Day%20005%20-%20Operators/readme.md) | [Day 7 >>](../Day%20007%20-%20Functions/readme.md)

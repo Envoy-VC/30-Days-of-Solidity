@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[Day 2 >>](../Day%202%20-%20Comments/readme.md)
+[Day 2 >>](../Day%20002%20-%20Comments/readme.md)
 
 ![Day X](./cover.png)
 
@@ -61,4 +61,4 @@ pragma solidity 0.8.7;
 
 ---
 
-[Day 2 >>](../Day%202%20-%20Comments/readme.md)
+[Day 2 >>](../Day%20002%20-%20Comments/readme.md)

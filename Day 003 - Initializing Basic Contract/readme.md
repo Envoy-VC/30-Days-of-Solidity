@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 100 Days Of Solidity: Initialising Basic Contract</h1>
+  <h1> 100 Days Of Solidity: Initializing Basic Contract</h1>
   <a class="header-badge" target="_blank" href="https://dev.to/envoy_">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 2](../Day%202%20-%20Comments/readme.md) | [Day 4 >>](../Day%204%20-%20Variables%20and%20Scopes/readme.md)
+[<< Day 2](../Day%20002%20-%20Comments/readme.md) | [Day 4 >>](../Day%20004%20-%20Variables%20and%20Scopes/readme.md)
 
 ![Day X](./cover.png)
 
@@ -40,4 +40,4 @@ MintNft
 
 ---
 
-[<< Day 2](../Day%202%20-%20Comments/readme.md) | [Day 4 >>](../Day%204%20-%20Variables%20and%20Scopes/readme.md)
+[<< Day 2](../Day%20002%20-%20Comments/readme.md) | [Day 4 >>](../Day%20004%20-%20Variables%20and%20Scopes/readme.md)
