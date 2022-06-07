@@ -8,7 +8,7 @@
 
 - [Day 1 - Licenses and Pragma](./Day%20001%20-%20Licenses%20and%20Pragma/readme.md)
 - [Day 2 - Comments](./Day%20002%20-%20Comments/readme.md)
-- [Day 3 - Initializing Basic Contract and Types](./Day%20003%20-%20Initializing%20Basic%20Contract%20and%20Types/readme.md)
+- [Day 3 - Initializing Basic Contract](./Day%20003%20-%20Initializing%20Basic%20Contract/readme.md)
 - [Day 4 - Variables and Scopes](./Day%20004%20-%20Variables%20and%20Scopes/readme.md)
 - [Day 5 - Operators](./Day%20005%20-%20Operators/readme.md)
 - [Day 6 - Types](./Day%20006%20-%20Types/readme.md)
