@@ -17,6 +17,7 @@
 - [Day 9 - Decision Making](./Day%20009%20-%20Decision%20Making/readme.md)
 - [Day 10 - Arrays](./Day%20010%20-%20Arrays/readme.md)
 - [Day 11 - Array Operations](./Day%20011%20-%20Array%20Operations/readme.md)
+- [Day 12 - Enums](./Day%20012%20-%20Enums/readme.md)
 
 <br>
 
