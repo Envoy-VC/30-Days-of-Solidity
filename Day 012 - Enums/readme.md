@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 11](../Day%20011%20-%20Array%20Operations/readme.md) | [Day 13 >>]()
+[<< Day 11](../Day%20011%20-%20Array%20Operations/readme.md) | [Day 13 >>](../Day%20013%20-%20Structs/readme.md)
 
 ![Day 12](./cover.png)
 
@@ -91,4 +91,4 @@ When we run the setDay function and then run the getDay function we get `0:uint8
 
 ---
 
-[<< Day 11](../Day%20011%20-%20Array%20Operations/readme.md) | [Day 13 >>]()
+[<< Day 11](../Day%20011%20-%20Array%20Operations/readme.md) | [Day 13 >>](../Day%20013%20-%20Structs/readme.md)
