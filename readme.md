@@ -18,6 +18,7 @@
 - [Day 10 - Arrays](./Day%20010%20-%20Arrays/readme.md)
 - [Day 11 - Array Operations](./Day%20011%20-%20Array%20Operations/readme.md)
 - [Day 12 - Enums](./Day%20012%20-%20Enums/readme.md)
+- [Day 13 - Structs](./Day%20013%20-%20Structs/readme.md)
 
 <br>
 
