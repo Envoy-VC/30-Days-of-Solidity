@@ -19,6 +19,11 @@
 - [Day 11 - Array Operations](./Day%20011%20-%20Array%20Operations/readme.md)
 - [Day 12 - Enums](./Day%20012%20-%20Enums/readme.md)
 - [Day 13 - Structs](./Day%20013%20-%20Structs/readme.md)
+- [Day 14 - Mappings](./Day%20014%20-%20Mappings/readme.md)
+- [Day 15 - Units](./Day%20015%20-%20Units/readme.md)
+- [Day 16 - Require Statement](./Day%20016%20-%20Require%20Statement/readme.md)
+- [Day 17 - Assert Statement](./Day%20017%20-%20Assert%20Statement/readme.md)
+- [Day 18 - Revert Statement](./Day%20018%20-%20Revert%20Statement/readme.md)
 
 <br>
 
