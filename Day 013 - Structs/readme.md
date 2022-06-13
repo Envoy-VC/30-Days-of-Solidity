@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 12](../Day%20012%20-%20Enums/readme.md) | [Day 14 >>]()
+[<< Day 12](../Day%20012%20-%20Enums/readme.md) | [Day 14 >>](../Day%20014%20-%20Mappings/readme.md)
 
 ![Day X](./cover.png)
 
@@ -79,4 +79,4 @@ and when we call the studentInfo function we get
 
 ---
 
-[<< Day 12](../Day%20012%20-%20Enums/readme.md) | [Day 14 >>]()
+[<< Day 12](../Day%20012%20-%20Enums/readme.md) | [Day 14 >>](../Day%20014%20-%20Mappings/readme.md)
