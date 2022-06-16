@@ -24,6 +24,7 @@
 - [Day 16 - Require Statement](./Day%20016%20-%20Require%20Statement/readme.md)
 - [Day 17 - Assert Statement](./Day%20017%20-%20Assert%20Statement/readme.md)
 - [Day 18 - Revert Statement](./Day%20018%20-%20Revert%20Statement/readme.md)
+- [Day 19 - Function Modifiers](./Day%20019%20-%20Function%20Modifiers/readme.md)
 
 <br>
 
