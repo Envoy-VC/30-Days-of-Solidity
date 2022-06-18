@@ -25,6 +25,11 @@
 - [Day 17 - Assert Statement](./Day%20017%20-%20Assert%20Statement/readme.md)
 - [Day 18 - Revert Statement](./Day%20018%20-%20Revert%20Statement/readme.md)
 - [Day 19 - Function Modifiers](./Day%20019%20-%20Function%20Modifiers/readme.md)
+- [Day 20 Constructors](./Day%20020%20-%20Constructors/readme.md)
+- [Day 21 Single Inheritance](./Day%20021%20-%20Single%20Inheritance/readme.md)
+- [Day 22 Multi-Level Inheritance](./Day%20022%20-%20Multi-level%20Inheritance/readme.md)
+- [Day 23 Hierarchical Inheritance](./Day%20023%20-%20Hierarchical%20Inheritance/readme.md)
+- [Day 24 Multiple Inheritance](./Day%20024%20-%20Multiple%20Inheritance/readme.md)
 
 <br>
 
