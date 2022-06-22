@@ -30,6 +30,7 @@
 - [Day 22 Multi-Level Inheritance](./Day%20022%20-%20Multi-level%20Inheritance/readme.md)
 - [Day 23 Hierarchical Inheritance](./Day%20023%20-%20Hierarchical%20Inheritance/readme.md)
 - [Day 24 Multiple Inheritance](./Day%20024%20-%20Multiple%20Inheritance/readme.md)
+- [Day 25 Fallback and Receive Function](./Day%20025%20-%20Fallback%20and%20Receive%20Function/readme.md)
 
 <br>
 

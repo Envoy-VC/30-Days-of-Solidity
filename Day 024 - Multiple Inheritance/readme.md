@@ -13,7 +13,7 @@
 </sub>
 </div>
 
-[<< Day 23](../Day%20023%20-%20Hierarchical%20Inheritance/readme.md) | [Day 25 >>]()
+[<< Day 23](../Day%20023%20-%20Hierarchical%20Inheritance/readme.md) | [Day 25 >>](../Day%20025%20-%20Fallback%20and%20Receive%20Function/readme.md)
 
 ![Cover](./cover.png)
 
@@ -89,3 +89,5 @@ Output:
 when we call the testInheritance function, the output is ("Multiple Inheritance", 1024).
 
 ---
+
+[<< Day 23](../Day%20023%20-%20Hierarchical%20Inheritance/readme.md) | [Day 25 >>](../Day%20025%20-%20Fallback%20and%20Receive%20Function/readme.md)
