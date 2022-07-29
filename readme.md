@@ -31,6 +31,7 @@
 - [Day 23 Hierarchical Inheritance](./Day%2023%20-%20Hierarchical%20Inheritance/readme.md)
 - [Day 24 Multiple Inheritance](./Day%2024%20-%20Multiple%20Inheritance/readme.md)
 - [Day 25 Fallback and Receive Function](./Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md)
+- [Day 26 Events and Hashing](./Day%2026%20-%20Events%20and%20Hashing/readme.md)
 
 <br>
 
