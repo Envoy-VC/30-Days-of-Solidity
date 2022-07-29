@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Day 24](../Day%2024%20-%20Multiple%20Inheritance/readme.md) | [Day 26 >>]()
+[<< Day 24](../Day%2024%20-%20Multiple%20Inheritance/readme.md) | [Day 26 >>](../Day%2026%20-%20Events%20and%20Hashing/readme.md)
 
 ![Cover](./cover.png)
 
