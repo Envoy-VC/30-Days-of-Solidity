@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Day 25](../Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md) | [Day 27 >>]()
+[<< Day 25](../Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md) | [Day 27 >>](../Day%2027%20-%20Libraries/readme.md)
 
 ![Cover](./cover.png)
 
@@ -110,4 +110,4 @@ uint256: 70469
 
 ---
 
-[<< Day 25](../Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md) | [Day 27 >>]()
+[<< Day 25](../Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md) | [Day 27 >>](../Day%2027%20-%20Libraries/readme.md)
