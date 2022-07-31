@@ -33,6 +33,7 @@
 - [Day 25 Fallback and Receive Function](./Day%2025%20-%20Fallback%20and%20Receive%20Function/readme.md)
 - [Day 26 Events and Hashing](./Day%2026%20-%20Events%20and%20Hashing/readme.md)
 - [Day 27 Libraries](./Day%2027%20-%20Libraries/readme.md)
+- [Day 28 Abstract Contract and Interface](./Day%2028%20-%20Abstract%20Contract%20and%20Interface/readme.md)
 
 <br>
 
