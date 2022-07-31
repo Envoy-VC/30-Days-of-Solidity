@@ -123,3 +123,5 @@ Another misconception is to define functions definitions only for functions that
 Functions part of an interface can also be view functions. In fac, the highly popular [IERC20 interface](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol) defines two view functions: `totalSupply(...)` and `balanceOf(...)`.
 
 ---
+
+[<< Day 27](../Day%2027%20-%20Libraries/readme.md) | [Day 29 >>](../Day%2029%20-%20Assembly/readme.md)
