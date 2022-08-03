@@ -34,6 +34,8 @@
 - [Day 26 Events and Hashing](./Day%2026%20-%20Events%20and%20Hashing/readme.md)
 - [Day 27 Libraries](./Day%2027%20-%20Libraries/readme.md)
 - [Day 28 Abstract Contract and Interface](./Day%2028%20-%20Abstract%20Contract%20and%20Interface/readme.md)
+- [Day 29 Assembly](./Day%2029%20-%20Assembly/readme.md)
+- [Day 30 Polymorphism](./Day%2030%20-%20Polymorphism/readme.md)
 
 <br>
 
