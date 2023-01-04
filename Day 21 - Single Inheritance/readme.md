@@ -77,6 +77,41 @@ Output:
 
 when we call the testInheritance function, the output is 30.
 
+
+### constructor of parent class
+
+If parameters are expected in the constructor method of an inherited superclass, we need to specify this in the inheriting contract in solidity
+
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.7;
+
+// Defining Parent contract
+contract Human {
+   string name;
+   uint age;
+   
+   constructor(string memory _name, uint256 _age){
+    name = _name;
+    age = _age;
+   }
+   
+}
+
+// contract Gavin is Human("Gavin", 35) { ... }
+// or..
+
+// Defining child contract
+contract Gavin is Human {
+  
+  constructor() Human("Gavin", 35){ 
+    // Gavin constructor scope
+  }
+  
+}
+```
+
 ---
 
 [<< Day 20](../Day%2020%20-%20Constructors/readme.md) | [Day 22 >>](../Day%2022%20-%20Multi-level%20Inheritance/readme.md)
