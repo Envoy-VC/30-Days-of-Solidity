@@ -40,4 +40,11 @@ contract D is C {
         iData = 3; // internal access
         return iData;
     }
+
+    function getResult() public view returns (uint) {
+        uint a = 1; // local variable
+        uint b = 2;
+        uint result = a + b;
+        return data; //access the state variable
+    }
 }

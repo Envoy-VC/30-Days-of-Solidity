@@ -130,7 +130,7 @@ contract D is C {
       uint a = 1; // local variable
       uint b = 2;
       uint result = a + b;
-      return storedData; //access the state variable
+      return data; //access the state variable
    }
 }
 ```
