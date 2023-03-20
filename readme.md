@@ -4,6 +4,8 @@
 
 </div>
 
+> **WARNING**: This repository is currently undergoing updates and revisions to incorporate the latest information and advancements in Solidity programming. Please be advised that the content may not be up-to-date or accurate during this time. We expect the updates to be completed within the next 30 days, and appreciate your patience during this process. Thank you for your understanding.
+
 ## Contents
 
 - [Day 1 - Licenses and Pragma](./Day%2001%20-%20Licenses%20and%20Pragma/readme.md)
